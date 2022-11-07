@@ -139,7 +139,6 @@
   max-width: 360px;
   height: 420px;
   flex-basis: auto;
-  justify-content: center;
 }
 
 .card__content {
@@ -469,5 +468,5 @@
 }
 
 .footer__copyright {
-  margin: 108px 0 60px;
+  margin: 0;
 }
